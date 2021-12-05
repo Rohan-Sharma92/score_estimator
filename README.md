@@ -55,16 +55,19 @@ The test coverage of the project is around 99%.
 
 ## Examples
 1. http://localhost:8080/api/estimate?keyword=samsung
+    
     Response{
          "keyword": "samsung",
          "score": 100
     }
 2. http://localhost:8080/api/estimate?keyword=MI power bank
+    
     Response{
         "keyword": "MI power bank",
         "score": 91
     }
 3. http://localhost:8080/api/estimate?keyword=a star
+    
     Response{
         "keyword": "a star",
         "score": 40
