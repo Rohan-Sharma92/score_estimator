@@ -3,6 +3,7 @@ Score Estimator is a REST microservice which retrives popularity score of a keyw
 
 ## Overview
 Its a Java based microservice with the following end point available for retrieving popularity score:
+
 GET /api/estimate
 
 The API expects a parameter named 'keyword' for which the score needs to be calculated.
