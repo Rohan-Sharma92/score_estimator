@@ -43,7 +43,7 @@ I believe the outcome is quite precise and is able to retrieve popularity index 
    ``` 
 2. For accessing the score estimator API, perform the following request: 
    ```
-   http://localhost:8080/estimate?keyword=samsung
+   http://localhost:8080/api/estimate?keyword=samsung
    ```
 
 ## Testing
